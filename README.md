@@ -5,4 +5,5 @@ someone smile. I have experience with mechanical and software design, with empha
 
 
 CAD software: Solidworks, Autodesk Fusion 360, OnShape
+
 Programming Languages: C, Python, Unix, Javascript, Racket
